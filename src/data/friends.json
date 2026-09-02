@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Arif Hossain",
+    "picture": "https://i.pravatar.cc/300?img=12",
+    "email": "arif.hossain@example.com",
+    "days_since_contact": 21,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Roommate during first year at DIU. We used to pull all-nighters before exams together.",
+    "goal": 14,
+    "next_due_date": "2026-04-01"
+  },
+  {
+    "id": 2,
+    "name": "Nusrat Jahan",
+    "picture": "https://i.pravatar.cc/300?img=47",
+    "email": "nusrat.jahan@example.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["school", "best friend"],
+    "bio": "Known her since class 6. She's the one who convinced me to study Software Engineering.",
+    "goal": 7,
+    "next_due_date": "2026-04-11"
+  },
+  {
+    "id": 3,
+    "name": "Tanvir Ahmed",
+    "picture": "https://i.pravatar.cc/300?img=33",
+    "email": "tanvir.ahmed@example.com",
+    "days_since_contact": 10,
+    "status": "almost due",
+    "tags": ["work", "coding buddy"],
+    "bio": "We freelance together on small web projects. Great at debugging at 3am.",
+    "goal": 12,
+    "next_due_date": "2026-04-06"
+  },
+  {
+    "id": 4,
+    "name": "Farzana Akter",
+    "picture": "https://i.pravatar.cc/300?img=45",
+    "email": "farzana.akter@example.com",
+    "days_since_contact": 1,
+    "status": "on-track",
+    "tags": ["family friend"],
+    "bio": "Cousin's best friend, basically family now. Loves discussing K-dramas.",
+    "goal": 10,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 5,
+    "name": "Shakil Rahman",
+    "picture": "https://i.pravatar.cc/300?img=51",
+    "email": "shakil.rahman@example.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "gaming squad"],
+    "bio": "My Valorant duo since first semester. Owes me a rematch.",
+    "goal": 14,
+    "next_due_date": "2026-04-02"
+  },
+  {
+    "id": 6,
+    "name": "Mim Akhter",
+    "picture": "https://i.pravatar.cc/300?img=44",
+    "email": "mim.akhter@example.com",
+    "days_since_contact": 8,
+    "status": "almost due",
+    "tags": ["hometown", "childhood friend"],
+    "bio": "Grew up on the same street in Tangail. She's studying medicine now.",
+    "goal": 10,
+    "next_due_date": "2026-04-08"
+  },
+  {
+    "id": 7,
+    "name": "Rakibul Islam",
+    "picture": "https://i.pravatar.cc/300?img=14",
+    "email": "rakibul.islam@example.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["college", "project partner"],
+    "bio": "Teammate on the RentMatch BD project. Talks way too much about clean code.",
+    "goal": 7,
+    "next_due_date": "2026-04-13"
+  },
+  {
+    "id": 8,
+    "name": "Sadia Islam",
+    "picture": "https://i.pravatar.cc/300?img=48",
+    "email": "sadia.islam@example.com",
+    "days_since_contact": 15,
+    "status": "overdue",
+    "tags": ["university", "study group"],
+    "bio": "We used to run the same study group for Data Structures. Miss those sessions.",
+    "goal": 14,
+    "next_due_date": "2026-04-04"
+  }
+]
